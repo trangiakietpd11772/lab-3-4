@@ -1,44 +1,55 @@
 ﻿using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    public float speed = 2f;  // Tốc độ di chuyển
+    public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 moveInput;
-    private Vector3 startPosition; // Lưu vị trí xuất phát ban đầu
+    private Vector2 moveVelocity;
+
+    private Vector3 respawnPoint;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        startPosition = transform.position; // Lưu vị trí ban đầu của player
+        respawnPoint = transform.position; // spawn ban đầu
     }
 
     void Update()
     {
-        float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Vertical");
-
-        moveInput = new Vector2(moveX, moveY).normalized; // Lấy hướng di chuyển
+        moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        moveVelocity = moveInput.normalized * moveSpeed;
     }
 
     void FixedUpdate()
     {
-        rb.velocity = moveInput * speed; // Di chuyển nhân vật
+        rb.velocity = moveVelocity;
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy")) // Nếu chạm Enemy
+        if (other.CompareTag("Enemy"))
         {
-            Debug.Log("Player bị chạm! Respawn...");
-            GameManager.instance.IncreaseDeathCount();
-            Respawn(); // Gọi hàm respawn
+            Debug.Log("Chạm enemy!");
+            if (GameManager.instance != null)
+            {
+                GameManager.instance.IncreaseDeathCount();
+            }
+
+            Respawn();
+        }
+        else if (other.CompareTag("Checkpoint"))
+        {
+            respawnPoint = other.transform.position + Vector3.up * 3f; // né enemy
+            Debug.Log("Checkpoint saved tại: " + respawnPoint);
         }
     }
 
     void Respawn()
     {
-        transform.position = startPosition; // Đưa player về vị trí ban đầu
-        rb.velocity = Vector2.zero; // Reset vận tốc để không bị trôi
+        Debug.Log("Respawning...");
+        transform.position = respawnPoint;
+        rb.velocity = Vector2.zero;
+        gameObject.SetActive(true);
     }
 }

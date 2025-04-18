@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=0bb34147f0dd21749a25c2ed4dde1cc0&amp;type=3#MainMenuStyle" />
+    <ui:VisualElement name="Container" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/UI%20Toolkit/mainmenu.png?fileID=2800000&amp;guid=d180a0275e76dbe489c5e94178579a03&amp;type=3#mainmenu&quot;);">
+        <ui:Button parse-escape-sequences="true" text="PLAY" name="PlayButton" class="button" style="top: 753px; left: 530px; height: 107px; width: 885px; font-size: 39px; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -3,13 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class Goal : MonoBehaviour
 {
-    public string nextSceneName = "Level_2"; // Đổi thành tên scene tiếp theo
+    // Tên scene kế tiếp, chỉnh trong Unity Editor
+    public string nextSceneName = "Level_2"; // Ví dụ: "Level_3" cho level 2
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player")) // Kiểm tra đúng tag Player
+        if (other.CompareTag("Player")) // Kiểm tra player chạm vào
         {
-            SceneManager.LoadScene(nextSceneName);
+            SceneManager.LoadScene(nextSceneName); // Load scene tiếp theo
         }
     }
 }

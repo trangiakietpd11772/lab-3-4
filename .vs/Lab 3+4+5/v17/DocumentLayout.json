@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|d:\\fpt polytechnich\\laptrinhgame2d\\lab 3\u002B4\u002B5\\assets\\ui toolkit\\mainmenu.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\mainmenu.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\ui toolkit\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\pausemenuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\pausemenuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\orbitenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\orbitenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\ui toolkit\\mainmenustyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\mainmenustyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\rotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\assets\\enemyrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B55B1D-766C-51B4-37D5-988247762CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Finish.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Finish.cs",
+              "RelativeToolTip": "Assets\\Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:35:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\CameraController.cs",
+              "RelativeToolTip": "Assets\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:30:36.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseMenuUIController.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\PauseMenuUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\PauseMenuUIController.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\PauseMenuUIController.cs",
+              "RelativeToolTip": "Assets\\PauseMenuUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:21:16.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrbitEnemy.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\OrbitEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\OrbitEnemy.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\OrbitEnemy.cs",
+              "RelativeToolTip": "Assets\\OrbitEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:00:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.uxml",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenu.uxml",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MainMenu.uxml",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenu.uxml",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MainMenu.uxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-10T21:50:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MainMenuUI.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MainMenuUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:28:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuStyle.uss",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenuStyle.uss",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MainMenuStyle.uss",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\UI Toolkit\\MainMenuStyle.uss",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MainMenuStyle.uss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T21:26:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:45:48.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rotator.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Rotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Rotator.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Rotator.cs",
+              "RelativeToolTip": "Assets\\Rotator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:30:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyRotate.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\EnemyRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyRotate.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\EnemyRotate.cs",
+              "RelativeToolTip": "Assets\\EnemyRotate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:28:05.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Goal.cs",
+              "ToolTip": "D:\\FPT Polytechnich\\LapTrinhGame2D\\Lab 3\u002B4\u002B5\\Assets\\Goal.cs",
+              "RelativeToolTip": "Assets\\Goal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:15:24.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

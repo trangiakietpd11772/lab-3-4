@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/UI%20Toolkit/mainmenu.png?fileID=2800000&amp;guid=d180a0275e76dbe489c5e94178579a03&amp;type=3#mainmenu&quot;);">
+        <ui:Button text="Resume" parse-escape-sequences="true" display-tooltip-when-elided="true" name="resume-button" style="height: 100px; width: 580px; position: absolute; top: 745px; left: 285px; font-size: 46px;" />
+        <ui:Button text="Level Select" parse-escape-sequences="true" display-tooltip-when-elided="true" name="level-button" style="-unity-text-align: lower-center; position: absolute; top: 746px; left: 1134px; width: 579px; height: 95px; font-size: 46px;" />
+    </ui:VisualElement>
+</ui:UXML>

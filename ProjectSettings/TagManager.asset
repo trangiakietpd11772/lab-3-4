@@ -8,6 +8,7 @@ TagManager:
   - Wall
   - Goal
   - Coin
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
